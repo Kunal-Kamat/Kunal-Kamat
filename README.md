@@ -25,16 +25,20 @@
 <h2 data-importer="text" align="left"><b>Featured Projects</b></h2>
 
 <p data-importer="text" align="left">
-1. <b>BookLoop</b> — Peer-to-Peer Book Sharing Platform 📖<br> 
+<b>1. BookLoop</b> — Peer-to-Peer Book Sharing Platform 📖<br> 
 Full-stack MERN app with JWT auth and a queue-based borrow-request workflow with status tracking (requested → approved → returned).
 </p>
 <p data-importer="text" align="left">
-2. <b>MoodSync</b> — Mood-Based Music Recommendation App 🎶<br>
+<b>2. MoodSync</b> — Mood-Based Music Recommendation App 🎶<br>
 Full-stack MERN app using the Spotify API, with a Heap-based ranking system for top-N song selection and an LRU cache to reduce redundant API calls.
 </p>
 <p data-importer="text" align="left">
-3. <b>Shopping Mall Management System — Customer Module 🏢</b><br>
+<b>3. Shopping Mall Management System — Customer Module 🏢</b><br>
 Built during TNSIF Java Full Stack Training. Customer Services module using Spring Boot, Java 17, and PostgreSQL, with the Customer–OrderDetails entity relationship and REST APIs for registration, search, and order management.
+</p>
+<p data-importer="text" align="left">
+<b>4. Aayuniq Health Portal — Healthcare Records Management Platform 🏥</b><br> 
+Full-stack MERN app with JWT auth and OTP verification, featuring role-based dashboards for patients, doctors, and government users with medical history timelines and PDF report generation.
 </p>
 
 
