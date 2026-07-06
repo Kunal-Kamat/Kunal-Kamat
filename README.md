@@ -19,7 +19,7 @@
 <h2 data-importer="text" align="left"><b>About Me</b></h2>
 
 
-<p data-importer="text" align="left">Aspiring Software Developer | CSE Undergrad<br>- Full-stack development with MERN (MongoDB, Express.js, React, Node.js)<br>- Backend development with Java (Spring Boot) & PostgreSQL<br>- Applying DSA (Heap, LRU Cache, Queue) to real product features - not just problem-solving<br>- ServiceNow Certified System Administrator (CSA) & Certified Application Developer (CAD)</p>
+<p data-importer="text" align="left">Aspiring Software Developer | CSE Undergrad<br>- Full-stack development with MERN (MongoDB, Express.js, React, Node.js)<br>- Applying DSA to real product features - not just problem-solving<br>- ServiceNow Certified System Administrator (CSA) & Certified Application Developer (CAD)</p>
 
 
 <h2 data-importer="text" align="left"><b>Featured Projects</b></h2>
