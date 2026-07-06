@@ -16,29 +16,29 @@
 
 
 
-<h2 data-importer="text" align="left"><b>💻 About Me</b></h2>
+<h2 data-importer="text" align="left"><b>About Me</b></h2>
 
 
-<p data-importer="text" align="left">Aspiring Software Developer | CSE Undergrad<br>🚀 Full-stack development with MERN (MongoDB, Express.js, React, Node.js)<br>☕ Backend development with Java (Spring Boot) & PostgreSQL<br>🧠 Applying DSA (Heap, LRU Cache, Queue) to real product features - not just problem-solving<br>🎫 ServiceNow Certified System Administrator (CSA) & Certified Application Developer (CAD)</p>
+<p data-importer="text" align="left">Aspiring Software Developer | CSE Undergrad<br>- Full-stack development with MERN (MongoDB, Express.js, React, Node.js)<br>- Backend development with Java (Spring Boot) & PostgreSQL<br>- Applying DSA (Heap, LRU Cache, Queue) to real product features - not just problem-solving<br>- ServiceNow Certified System Administrator (CSA) & Certified Application Developer (CAD)</p>
 
 
-<h2 data-importer="text" align="left"><b>🚀 Featured Projects</b></h2>
+<h2 data-importer="text" align="left"><b>Featured Projects</b></h2>
 
 <p data-importer="text" align="left">
-📚 <b>BookLoop</b> — Peer-to-Peer Book Sharing Platform<br>
+1. <b>BookLoop</b> — Peer-to-Peer Book Sharing Platform<br>
 Full-stack MERN app with JWT auth and a queue-based borrow-request workflow with status tracking (requested → approved → returned).
 </p>
 <p data-importer="text" align="left">
-🎵 <b>MoodSync</b> — Mood-Based Music Recommendation App<br>
+2. <b>MoodSync</b> — Mood-Based Music Recommendation App<br>
 Full-stack MERN app using the Spotify API, with a Heap-based ranking system for top-N song selection and an LRU cache to reduce redundant API calls.
 </p>
 <p data-importer="text" align="left">
-🏬 <b>Shopping Mall Management System — Customer Module</b><br>
+3. <b>Shopping Mall Management System — Customer Module</b><br>
 Built during TNSIF Java Full Stack Training. Customer Services module using Spring Boot, Java 17, and PostgreSQL, with the Customer–OrderDetails entity relationship and REST APIs for registration, search, and order management.
 </p>
 
 
-<h2 data-importer="text" align="left"><b>🛠 Language and tools</b></h2>
+<h2 data-importer="text" align="left"><b>Language and tools</b></h2>
 
 ###
 
