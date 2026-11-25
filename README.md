@@ -12,7 +12,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hi, I'm Kunal Kumar Kamat ✨</h1>
+<h1 data-importer="text" align="center">Hi, I am Kunal Kumar Kamat ✨</h1>
 
 
 
